@@ -7,6 +7,8 @@ int main()
 {
     cout << "Hello World!\n";
 	cout << "wsp\n";
+	cout << "wsp2\n";
+	return 0;
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
